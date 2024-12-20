@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <div className="max-w-screen-xl mx-auto  px-4 py-8 sm:px-6 lg:px-8">
+    <div className="max-w-screen-xl mx-auto  px-4 py-8 sm:px-6 lg:px-8 flex items-center h-full">
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 md:items-center md:gap-8">
         <div>
           <div className="max-w-lg md:max-w-none">

@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-black text-white">
+      <div className="bg-black text-white h-[100vh]">
         <Header />
         <Hero />
       </div>
